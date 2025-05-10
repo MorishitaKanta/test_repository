@@ -1,1 +1,1 @@
-console.log("New Git 2");
+console.log("Git 2");
